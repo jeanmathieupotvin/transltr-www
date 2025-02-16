@@ -1,0 +1,8 @@
+pandoc: '3.5'
+pkgdown: 2.1.0
+pkgdown_sha: ~
+articles: {}
+last_built: 2025-02-16T00:47Z
+urls:
+  reference: https://transltr.ununoctium.dev/reference
+  article: https://transltr.ununoctium.dev/articles
